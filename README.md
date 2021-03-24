@@ -1,1 +1,1 @@
-NeighborGoods Client
+NeighborGoods Clients
